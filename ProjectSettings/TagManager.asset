@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+<<<<<<< HEAD
+  serializedVersion: 3
+  tags:
+  - Cible
+  - PlacementZone
+  - equipe
+=======
+  serializedVersion: 2
+  tags: []
+>>>>>>> b1c7566 (initial commit)
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+<<<<<<< HEAD
+  - PlacementArea
+=======
+  - 
+>>>>>>> b1c7566 (initial commit)
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+<<<<<<< HEAD
+  m_RenderingLayers:
+  - Default
+=======
+>>>>>>> b1c7566 (initial commit)
